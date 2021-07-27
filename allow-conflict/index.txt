@@ -12,3 +12,4 @@ newconf 3
 newconf 4
 newconf 5
 newconf 6
+newconf 7
