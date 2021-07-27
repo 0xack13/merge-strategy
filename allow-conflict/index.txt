@@ -8,3 +8,5 @@ a-their-conflicting-content3
 55
 66
 new confliuct
+
+newconf 3
