@@ -9,3 +9,4 @@ a-their-conflicting-content3
 new confliuct
 
 newconf 3
+newconf 4
