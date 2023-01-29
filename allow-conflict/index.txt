@@ -9,10 +9,10 @@ a-their-conflicting-content3
 66
 new confliuct
 
-newconf 3
-<<<<<<< HEAD
+
 =======
 newconf 4
 newconf 5
 newconf 6
->>>>>>> remote-branch
+=======
+newconf 7
